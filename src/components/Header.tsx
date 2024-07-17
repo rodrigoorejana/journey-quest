@@ -8,7 +8,7 @@ const Header = () => {
         <Navbar container="md" className="custom-navbar">
             <Link href="/" passHref>
                 <Image
-                    src="/logo.png"
+                    src="/Logo.png"
                     alt="Logo"
                     width={60}
                     height={60}
